@@ -4,17 +4,15 @@
 <a href="https://www.instagram.com/rushabh_2122/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-name: Rushabh Patel
-located in: Toronto, Ontario
-recent job: Software Engineer Intern 
-education:
+Name: Rushabh Patel
+Located in: Moncton, NewBrunswick
+Recent job: Software Engineer Intern 
+Education:
   [
-    "Self-Taught Developer and Designer",
-    "Diploma in Software Engineering Technician",
+    "Diploma in Software Engineering Technician : Centennial College",
   ]
-company: Radicalx
 
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "Data Science",
@@ -24,13 +22,13 @@ fields_of_interests:
     "DevOps",
     "QA",
   ]
-technical_background:
+Technical Background:
   [
     "Freelancer Full Stack Developer"
     "Intern - Data Science & Machine Learning in Python",
   ]
   
-currently_learning: ["React Native"]
+Currently Learning: ["React Native"]
 2024 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Cricket"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
